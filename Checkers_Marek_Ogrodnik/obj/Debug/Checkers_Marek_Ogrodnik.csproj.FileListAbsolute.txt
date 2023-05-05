@@ -1,0 +1,11 @@
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\bin\Debug\Checkers_Marek_Ogrodnik.exe.config
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\bin\Debug\Checkers_Marek_Ogrodnik.exe
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\bin\Debug\Checkers_Marek_Ogrodnik.pdb
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\obj\Debug\Checkers_Marek_Ogrodnik.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\obj\Debug\Checkers_Marek_Ogrodnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\obj\Debug\Checkers_Marek_Ogrodnik.Properties.Resources.resources
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\obj\Debug\Checkers_Marek_Ogrodnik.csproj.GenerateResource.cache
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\obj\Debug\Checkers_Marek_Ogrodnik.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\obj\Debug\Checkers_Marek_Ogrodnik.exe
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\obj\Debug\Checkers_Marek_Ogrodnik.pdb
+C:\Users\mario\Desktop\Strukturydanych\CheckersProject\Checkers_Marek_Ogrodnik\obj\Debug\Checkers_Marek_Ogrodnik.Form1.resources
