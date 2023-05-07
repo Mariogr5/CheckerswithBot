@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="CLasses\Board.cs" />
     <Compile Include="CLasses\Checkerclass.cs" />
+    <Compile Include="CLasses\OptionalMechanic.cs" />
     <Compile Include="CLasses\Playerclass.cs" />
     <Compile Include="Enums\Enums.cs" />
     <Compile Include="Form1.cs">
@@ -88,6 +89,8 @@
   <ItemGroup>
     <Content Include="Images\Green.jpg" />
     <Content Include="Images\Red.png" />
+    <None Include="Resources\RedPick.png" />
+    <None Include="Resources\GreenPick.png" />
     <None Include="Resources\Green1.png" />
     <None Include="Resources\Red1.png" />
     <None Include="Resources\Red3.jpg" />

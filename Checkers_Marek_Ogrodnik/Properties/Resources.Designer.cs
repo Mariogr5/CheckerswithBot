@@ -83,6 +83,16 @@ namespace Checkers_Marek_Ogrodnik.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap GreenPick {
+            get {
+                object obj = ResourceManager.GetObject("GreenPick", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Red {
             get {
                 object obj = ResourceManager.GetObject("Red", resourceCulture);
@@ -106,6 +116,16 @@ namespace Checkers_Marek_Ogrodnik.Properties {
         internal static System.Drawing.Bitmap Red3 {
             get {
                 object obj = ResourceManager.GetObject("Red3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap RedPick {
+            get {
+                object obj = ResourceManager.GetObject("RedPick", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -17,9 +17,9 @@ namespace Checkers_Marek_Ogrodnik.CLasses
             this.checkers = list;
         }
         public PlayerColour colour { get; set; }
-        public bool flags()
+        public bool flagsy()
         {
-            if(colour == PlayerColour.Red)
+            if(colour == PlayerColour.Green)
                 return true;
             return false;
         }
@@ -37,9 +37,25 @@ namespace Checkers_Marek_Ogrodnik.CLasses
                 // else if(colour == PlayerColour.Green)
                 //     if (p.Image == Resources.Green1)
                 //         number++;
-                number++;
+                if(p.colour == colour)
+                    number++;
             }
             return number;
+        }
+
+        public void SetFlags()
+        {
+            foreach(var P in checkers)
+            {
+                P.Flags = true;
+            }
+        }
+        public void DelayFlags()
+        {
+            foreach (var P in checkers)
+            {
+                P.Flags = false;
+            }
         }
     }
 }
